@@ -5,21 +5,18 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How o reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
------->A 2 anos atras, eu fui em uma freddys entreteniment, e eu queria de qualquer jeito, tirar esse dia de minha cabeça,nao importa oque iria custar,
-                                                                                                                                        Até que...
-                                        
-                                                                                                                                        
-                                                                                                                                        
-                                                     UM DIA ANTES DO ACONTECIMENTO
+- estou fazendo o segundo medio;
+- Pretendo ser desenvolvedor de jogos;
+- programo sits/apps;
+- SOU JESUS
+- sou muito carismatico
+- Faço animaçoes 
+- dublo 
+--> sou rico 
+------>Estudando HTML e desenvolvimento de sistemas, logo vou aprender a mecher em javascript
+--->sou compositor de musica 
+->sou gamer raiz
+-->jogo MINECRAFT COM OS GURI 
 
 
 
